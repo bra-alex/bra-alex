@@ -6,6 +6,7 @@
 - 📫 How to reach me: you can reach me on Twitter or mail me at aalexanderkwaku@yahoo.co.uk
 
 <img src="https://streak-stats.demolab.com?user=bra-alex&theme=highcontrast&hide_border=true" alt="Stats" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bra-alex&layout=compact)
 
 <!---
 bra-alex/bra-alex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
