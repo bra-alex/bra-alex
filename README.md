@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @bra-alex
 - 👀 I’m interested in backend and cybersecurity 
-- 🌱 I’m currently learning NodeJS and SwiftUI
-- 💻 I'm currently working on releasing an app for the Apple ecosystem
-- 💞️ I’m looking to collaborate on any iOS or Mac app
+- 🌱 I’m currently learning Java(Springboot) and Ruby(Ruby on Rails)
+- 💻 I use Express, NextJS and Typescript for backend development
+- 📱 I use Flutter and SwiftUI for mobile development
+- 💞️ I’m looking to collaborate on any backend/mobile project
 - 📫 How to reach me: you can reach me on Twitter or mail me at aalexanderkwaku@yahoo.co.uk
 
 <img src="https://streak-stats.demolab.com?user=bra-alex&theme=highcontrast&hide_border=true" alt="Stats" />
